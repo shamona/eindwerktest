@@ -1,8 +1,0 @@
-filename = "eindwerk-2013-10-11T09-48-31"
-description = ""
-datestamp = "1381477711"
-generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
-generatorversion = "7.x-2.x"
-sites[0][version] = "7.23"
-sites[0][name] = "eindwerk"
-sites[0][url] = "http://localhost/eindwerk/"
